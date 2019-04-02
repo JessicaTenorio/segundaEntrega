@@ -1,4 +1,4 @@
 # cursoNode
 
 
-Para ejecutar la aplicacion de la siguiente manera nodemon app
+EJECUTAR LA APLICACION DE LA SIGUIENTE MANERA:  nodemon app
